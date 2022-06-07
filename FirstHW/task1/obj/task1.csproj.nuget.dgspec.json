@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\STUDY\\C#\\HomeWork\\task11\\task11.csproj": {}
+    "D:\\STUDY\\C#\\HomeWork\\FirstHW\\task1\\task1.csproj": {}
   },
   "projects": {
-    "D:\\STUDY\\C#\\HomeWork\\task11\\task11.csproj": {
+    "D:\\STUDY\\C#\\HomeWork\\FirstHW\\task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDY\\C#\\HomeWork\\task11\\task11.csproj",
-        "projectName": "task11",
-        "projectPath": "D:\\STUDY\\C#\\HomeWork\\task11\\task11.csproj",
+        "projectUniqueName": "D:\\STUDY\\C#\\HomeWork\\FirstHW\\task1\\task1.csproj",
+        "projectName": "task1",
+        "projectPath": "D:\\STUDY\\C#\\HomeWork\\FirstHW\\task1\\task1.csproj",
         "packagesPath": "C:\\Users\\fokvo\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDY\\C#\\HomeWork\\task11\\obj\\",
+        "outputPath": "D:\\STUDY\\C#\\HomeWork\\FirstHW\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fokvo\\AppData\\Roaming\\NuGet\\NuGet.Config"
