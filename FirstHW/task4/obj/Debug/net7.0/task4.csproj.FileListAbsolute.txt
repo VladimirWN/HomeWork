@@ -1,0 +1,15 @@
+D:\STUDY\C#\HomeWork\FirstHW\task4\bin\Debug\net7.0\task4.exe
+D:\STUDY\C#\HomeWork\FirstHW\task4\bin\Debug\net7.0\task4.deps.json
+D:\STUDY\C#\HomeWork\FirstHW\task4\bin\Debug\net7.0\task4.runtimeconfig.json
+D:\STUDY\C#\HomeWork\FirstHW\task4\bin\Debug\net7.0\task4.dll
+D:\STUDY\C#\HomeWork\FirstHW\task4\bin\Debug\net7.0\task4.pdb
+D:\STUDY\C#\HomeWork\FirstHW\task4\obj\Debug\net7.0\task4.csproj.AssemblyReference.cache
+D:\STUDY\C#\HomeWork\FirstHW\task4\obj\Debug\net7.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\C#\HomeWork\FirstHW\task4\obj\Debug\net7.0\task4.AssemblyInfoInputs.cache
+D:\STUDY\C#\HomeWork\FirstHW\task4\obj\Debug\net7.0\task4.AssemblyInfo.cs
+D:\STUDY\C#\HomeWork\FirstHW\task4\obj\Debug\net7.0\task4.csproj.CoreCompileInputs.cache
+D:\STUDY\C#\HomeWork\FirstHW\task4\obj\Debug\net7.0\task4.dll
+D:\STUDY\C#\HomeWork\FirstHW\task4\obj\Debug\net7.0\refint\task4.dll
+D:\STUDY\C#\HomeWork\FirstHW\task4\obj\Debug\net7.0\task4.pdb
+D:\STUDY\C#\HomeWork\FirstHW\task4\obj\Debug\net7.0\task4.genruntimeconfig.cache
+D:\STUDY\C#\HomeWork\FirstHW\task4\obj\Debug\net7.0\ref\task4.dll
