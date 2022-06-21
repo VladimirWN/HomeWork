@@ -1,0 +1,15 @@
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\obj\Debug\net7.0\task3.csproj.AssemblyReference.cache
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\obj\Debug\net7.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\obj\Debug\net7.0\task3.AssemblyInfoInputs.cache
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\obj\Debug\net7.0\task3.AssemblyInfo.cs
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\obj\Debug\net7.0\task3.csproj.CoreCompileInputs.cache
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\bin\Debug\net7.0\task3.exe
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\bin\Debug\net7.0\task3.deps.json
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\bin\Debug\net7.0\task3.runtimeconfig.json
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\bin\Debug\net7.0\task3.dll
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\bin\Debug\net7.0\task3.pdb
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\obj\Debug\net7.0\task3.dll
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\obj\Debug\net7.0\refint\task3.dll
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\obj\Debug\net7.0\task3.pdb
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\obj\Debug\net7.0\task3.genruntimeconfig.cache
+D:\STUDY\C#\HomeWork\05_FifthHM\task3\obj\Debug\net7.0\ref\task3.dll
