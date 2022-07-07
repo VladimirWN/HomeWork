@@ -1,0 +1,15 @@
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\obj\Debug\net7.0\task2.csproj.AssemblyReference.cache
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\bin\Debug\net7.0\task2.exe
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\bin\Debug\net7.0\task2.deps.json
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\bin\Debug\net7.0\task2.dll
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\bin\Debug\net7.0\task2.pdb
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\obj\Debug\net7.0\task2.dll
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\obj\Debug\net7.0\refint\task2.dll
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\obj\Debug\net7.0\task2.pdb
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+D:\STUDY\C#\HomeWork\09_NinthHM\task2\obj\Debug\net7.0\ref\task2.dll
